@@ -1,0 +1,110 @@
+body {
+  background-color: #222222;
+}
+
+.logo {
+  width: 26em;
+  height: 183px;
+  padding-bottom: 12px;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+h1 strong {
+  font-weight: 600;
+  color: #4b8673;
+}
+
+.inputstyle {
+  padding: 20px !important;
+}
+
+.whoop {
+  background-color: #1a0e86;
+  width: 8em;
+  font-size: 30px !important;
+  color: #ffffff;
+}
+
+.caloriescont {
+  background-color: #ffffff;
+  padding: 30px;
+}
+
+.caloriescont ul {
+  padding: 0px;
+}
+
+.caloriescont ul li {
+  list-style: none;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #efefef;
+  width: 80%;
+}
+
+.caloriescont h3 {
+  color: #0f156b;
+  font-size: 2em;
+  text-transform: capitalize;
+  font-weight: 700;
+}
+
+.caloriescont h5 {
+  color: #14075f;
+}
+
+.servingsize {
+  background-color: #000000;
+  padding: 10px;
+  color: #ffffff;
+}
+
+/* *
+{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+} */
+
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.navbar{
+    background-image: linear-gradient(to right, #66a3df, #201981);
+    padding: 0 !important;
+}
+
+.navbar-brand img{
+    height: 50px;
+    padding-left: 20px;
+    width: 80px;
+}
+
+.navbar-nav li{
+    padding: 0 10px;
+}
+
+.navbar-nav li a{
+    color: #ffffff !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+
+.fa-bars{
+    color: #fff;
+    font-size: 30px !important;
+}
+
+.navbar-toggler{
+    outline: none;
+}
+
