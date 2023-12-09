@@ -1,0 +1,60 @@
+video_id,title,description,body_part,bodyweight,cable,barbell,dumbbell,band,video_url
+1,Calve Raises,This is a band assisted workout targeted to calves.,Legs,f,f,f,f,t,S:\video-downloads\bands\male-band-calve-raise-front.mp4
+2,Leg Press,This is a band assisted workout targeted to legs.,Legs,f,f,f,f,t,S:\video-downloads\bands\male-band-leg-press-front.mp4
+3,Band Pushup,This is a band assisted workout targeted to chest.,Chest,f,f,f,f,t,S:\video-downloads\bands\male-band-pushup-front.mp4
+4,Romanian Deadlift,This is a band assisted workout targeted to hamstrings and glutes.,Legs,f,f,f,f,t,S:\video-downloads\bands\male-band-romanian-deadlift-front.mp4
+5,Band Row,This is a band assisted workout targeted to back.,Back,f,f,f,f,t,S:\video-downloads\bands\male-band-row-front.mp4
+6,Band Squat,This is a band assisted workout targeted to quads.,Legs,f,f,f,f,t,S:\video-downloads\bands\male-band-squat-front.mp4
+7,Kneeling Single Arm Pulldown,This is a band assisted workout targeted to back.,Back,f,f,f,f,t,S:\video-downloads\bands\m-home-back-band-kneeling-single-arm-pulldown.mp4
+8,Biceps Band Curl,This is a band assisted workout targeted to biceps.,Biceps,f,f,f,f,t,S:\video-downloads\bands\m-home-biceps-band-curl.mp4
+9,Kneeling Band Pushup,This is a band assisted workout targeted to chest.,Chest,f,f,f,f,t,S:\video-downloads\bands\m-home-chest-band-pushup.mp4
+10,Glutes Kickback,This is a band assisted workout targeted to glutes.,Legs,f,f,f,f,t,S:\video-downloads\bands\m-home-glutes-band-kickback.mp4
+11,Skullcrusher,This is a band assisted workout targeted to triceps.,Triceps,f,f,f,f,t,S:\video-downloads\bands\m-home-triceps-band-skullcrusher.mp4
+12,Sit up,This is a barbell workout targeted to abdominals.,Abdominals,f,f,t,f,f,S:\video-downloads\barbells\m-gym-abdominals-barbell-situp.mp4
+13,Bent Over Row,This is a barbell workout targeted to back.,Back,f,f,t,f,f,S:\video-downloads\barbells\m-gym-back-barbell-bent-over-row.mp4
+14,Landmine Row,This is a barbell workout targeted to back.,Back,f,f,t,f,f,S:\video-downloads\barbells\m-gym-back-barbell-landmine-row.mp4
+15,Biceps Curl,This is a barbell workout targeted to biceps.,Biceps,f,f,t,f,f,S:\video-downloads\barbells\m-gym-biceps-barbell-curl.mp4
+16,Bench Press,This is a barbell workout targeted to chest and triceps.,Chest,f,f,t,f,f,S:\video-downloads\barbells\m-gym-chest-barbell-bench-press.mp4
+17,Hip Thrust,This is a barbell workout targeted to glutes.,Legs,f,f,t,f,f,S:\video-downloads\barbells\m-gym-glutes-barbell-hip-thrust.mp4
+18,Reverse Lunge,This is a barbell workout targeted to hamstrings.,Legs,f,f,t,f,f,S:\video-downloads\barbells\m-gym-glutes-barbell-reverse-lunge.mp4
+19,Romanian Deadlift,This is a barbell workout targeted to hamstrings and glutes.,Legs,f,f,t,f,f,S:\video-downloads\barbells\m-gym-glutes-rdl.mp4
+20,High Bar Squat,This is a barbell workout targeted to quads.,Legs,f,f,t,f,f,S:\video-downloads\barbells\m-gym-legs-barbell-high-bar-squat.mp4
+21,Seated Calf Raise,This is a barbell workout targeted to calves.,Legs,f,f,t,f,f,S:\video-downloads\barbells\m-gym-legs-barbell-seated-calf-raise.mp4
+22,Over Head Press,This is a barbell workout targeted to shoulders.,Shoulders,f,f,t,f,f,S:\video-downloads\barbells\m-gym-shoulders-barbell-overhead-press.mp4
+23,Upright Row,This is a barbell workout targeted to shoulders.,Shoulders,f,f,t,f,f,S:\video-downloads\barbells\m-gym-shoulders-barbell-upright-row-front.mp4
+24,Skullcrusher,This is a barbell workout targeted to triceps.,Triceps,f,f,t,f,f,S:\video-downloads\barbells\m-gym-triceps-barbell-skullcrusher.mp4
+25,Calf Raise,This is a body-weight workout targeted to calves.,Legs,t,f,f,f,f,S:\video-downloads\body-weight\female-bodyweight-calve-raise-front.mp4
+26,Chin-up,"This is a body-weight workout targeted to chest, biceps and lats.",Biceps,t,f,f,f,f,S:\video-downloads\body-weight\female-bodyweight-chinup-front.mp4
+27,Dips,This is a body-weight workout targeted to triceps.,Triceps,t,f,f,f,f,S:\video-downloads\body-weight\female-bodyweight-dips-front.mp4
+28,Hollow Hold,This is a body-weight workout targeted to core.,Abdominals,t,f,f,f,f,S:\video-downloads\body-weight\female-bodyweight-hollow-hold-front.mp4
+29,Lateral Lunge,This is a body-weight workout targeted to quads.,Legs,t,f,f,f,f,S:\video-downloads\body-weight\female-bodyweight-lateral-lunge-front.mp4
+30,Pike Pushup,This is a body-weight workout targeted to triceps.,Triceps,t,f,f,f,f,S:\video-downloads\body-weight\female-bodyweight-pike-pushup-front.mp4
+31,Side Plank Reach,This is a body-weight workout targeted to core.,Abdominals,t,f,f,f,f,S:\video-downloads\body-weight\female-bodyweight-side-plank-reach-through-front.mp4
+32,Russian Twist,This is a body-weight workout targeted to core.,Abdominals,t,f,f,f,f,S:\video-downloads\body-weight\m-home-abdominals-bodyweight-russian-twist-front.mp4
+33,Forearm Plank,This is a body-weight workout targeted to core.,Abdominals,t,f,f,f,f,S:\video-downloads\body-weight\m-home-abdominals-forearm plank.mp4
+34,Decline Pushup,This is a body-weight workout targeted to triceps.,Triceps,t,f,f,f,f,S:\video-downloads\body-weight\m-home-chest-decline-pushup-front.mp4
+35,Glute Bridge,This is a body-weight workout targeted to glutes.,Legs,t,f,f,f,f,S:\video-downloads\body-weight\m-home-glutes-glute-bridge.mp4
+36,Reverse Lunge,This is a body-weight workout targeted to quads and hamstrings.,Legs,t,f,f,f,f,S:\video-downloads\body-weight\m-home-legs-Bodyweight Reverse Lunge.mp4
+37,Supermans,This is a body-weight workout targeted to lower back.,Back,t,f,f,f,f,S:\video-downloads\body-weight\m-home-lowerback-supermans.mp4
+38,Chest Press,This is a cable workout targeted to chest.,Chest,f,t,f,f,f,S:\video-downloads\cables\female-cable-chestpress-front.mp4
+39,Glute Kickback,This is a cable workout targeted to glutes.,Legs,f,t,f,f,f,S:\video-downloads\cables\female-Cables-cable-glute-kickback-front.mp4
+40,Pullover,This is a cable workout targeted to lats.,Back,f,t,f,f,f,S:\video-downloads\cables\female-Cables-cable-pullover-front.mp4
+41,Romanian Deadlift,This is a cable workout targeted to quads and glutes.,Legs,f,t,f,f,f,S:\video-downloads\cables\female-Cables-cable-romanian-deadlift-front.mp4
+42,Hamstring Curl,This is a cable workout targeted to hamstrings.,Triceps,f,t,f,f,f,S:\video-downloads\cables\male-cable-hamstring-curl--front.mp4
+43,Pec Fly,This is a cable workout targeted to chest.,Chest,f,t,f,f,f,S:\video-downloads\cables\male-cable-pec-fly.mp4
+44,30 Degree Shrug,This is a cable workout targeted to shoulders.,Shoulders,f,t,f,f,f,S:\video-downloads\cables\male-Cables-cable-30-degree-shrug-front.mp4
+45,Goblet Squat,This is a cable workout targeted to Quads.,Legs,f,t,f,f,f,S:\video-downloads\cables\m-gym-legs-cable-goblet-squat.mp4
+46,Chest Fly,This is a dumbbell workout targeted to chest.,Chest,f,f,f,t,f,S:\video-downloads\dumbells\male-dumbbell-chest-fly-front.mp4
+47,Neutral Overhead Press,This is a dumbbell workout targeted to shoulders.,Shoulders,f,f,f,t,f,S:\video-downloads\dumbells\male-dumbbell-neutral-overhead-press-front.mp4
+48,Reverse Lunge,This is a dumbbell workout targeted to quads.,Legs,f,f,f,t,f,S:\video-downloads\dumbells\male-dumbbell-reverse-lunge-front.mp4
+49,Wood Chopper,This is a dumbbell workout targeted to obliques.,Abdominals,f,f,f,t,f,S:\video-downloads\dumbells\m-gym-abdominals-dumbbell-wood-chopper.mp4
+50,Single Arm Row,This is a dumbbell workout targeted to back.,Back,f,f,f,t,f,S:\video-downloads\dumbells\m-gym-backs-dumbbell-single-arm-row.mp4
+51,Twisting Curl,This is a dumbbell workout targeted to biceps.,Biceps,f,f,f,t,f,S:\video-downloads\dumbells\m-gym-biceps-dumbbell-twisting-curl.mp4
+52,Bench Press,This is a dumbbell workout targeted to chest.,Chest,f,f,f,t,f,S:\video-downloads\dumbells\m-gym-chest-dumbbell-bench-press.mp4
+53,Bulgarian Split Squat,This is a dumbbell workout targeted to glutes.,Glutes,f,f,f,t,f,S:\video-downloads\dumbells\m-gym-glutes-dumbbell-bulgarian-split-squat.mp4
+54,Romanian Deadlift,This is a dumbbell workout targeted to hamstrings and quads.,Legs,f,f,f,t,f,S:\video-downloads\dumbells\m-gym-glutes-dumbbell-romanian-deadlift.mp4
+55,Calf Raise,This is a dumbbell workout targeted to calves.,Legs,f,f,f,t,f,S:\video-downloads\dumbells\m-gym-legs-dumbbell-calf-raise.mp4
+56,Goblet Squat,This is a dumbbell workout targeted to quads.,Legs,f,f,f,t,f,S:\video-downloads\dumbells\m-gym-legs-dumbbell-heels-up-goblet-squat.mp4
+57,Lateral Raise,This is a dumbbell workout targeted to shoulders.,Shoulders,f,f,f,t,f,S:\video-downloads\dumbells\m-gym-shoulders-dumbbell-lateral-raise.mp4
+58,Laying Reverse Fly,This is a dumbbell workout targeted to shoulders.,Shoulders,f,f,f,t,f,S:\video-downloads\dumbells\m-gym-shoulders-dumbbell-laying-reverse-fly.mp4
+59,Skullcrusher,This is a dumbbell workout targeted to triceps.,Triceps,f,f,f,t,f,S:\video-downloads\dumbells\m-gym-triceps-dumbbell-skullcrusher.mp4
